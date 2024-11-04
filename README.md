@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a full-stack developer with a strong passion f
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Database:** MongoDB, PostgreSQL
-- **Other Tools:** Google Sheets API, Vite, Firebase, Docker, Solana SDK
+- **Other Tools:** Google Sheets API, Vite, Git and Github
 
 ---
 
