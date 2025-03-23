@@ -1,32 +1,12 @@
-# 👋 Hi, I'm Priyesh Chaudhari!
+Hi, I'm Priyesh Chaudhari  
 
-Welcome to my GitHub profile! I'm a full-stack developer with a strong passion for web development, problem-solving, and exploring new technologies. This is where I document my journey, share projects, and contribute to the open-source community.
+Full-stack MERN developer. I enjoy building projects, solving problems, and learning new technologies.  
 
----
+Currently learning Docker and Next.js.  
 
-## 🌟 About Me
+Tech stack: React, Tailwind CSS, Node.js, Express, MongoDB, PostgreSQL.  
 
-- 🎓 3rd Semester Engineering Student
-- 👨‍💻 Full-stack MERN Developer
-- 🌱 Currently learning Docker and Nextjs
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Database:** MongoDB, PostgreSQL
-- **Other Tools:** Google Sheets API, Vite, Git and Github
-
----
-
-## 📫 Connect with Me
-
-- **LinkedIn:** [Priyesh’s LinkedIn](https://www.linkedin.com/in/priyesh-chaudhari/)
-- **Twitter:** [@ChaudhariPriyes](https://x.com/ChaudhariPriyes)
-- **Email:** priyeshchaudhari35@gmail.com
-
----
-
-Thanks for stopping by! Feel free to explore my repositories or reach out if you’d like to collaborate.
+Connect with me:  
+LinkedIn: [priyesh-chaudhari](https://www.linkedin.com/in/priyesh-chaudhari/)  
+Twitter: [@ChaudhariPriyes](https://x.com/ChaudhariPriyes)  
+Email: priyeshchaudhari35@gmail.com  
