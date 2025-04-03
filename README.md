@@ -10,3 +10,5 @@ Connect with me:
 LinkedIn: [priyesh-chaudhari](https://www.linkedin.com/in/priyesh-chaudhari/)  
 Twitter: [@ChaudhariPriyes](https://x.com/ChaudhariPriyes)  
 Email: priyeshchaudhari35@gmail.com  
+
+![GitHub Pull Requests](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=radical)
